@@ -1,6 +1,6 @@
 {
   "name": "radium",
-  "version": "0.26.2",
+  "version": "0.26.3",
   "description": "A set of tools to manage inline styles on React elements",
   "main": "index.js",
   "module": "es/index.js",
@@ -73,7 +73,7 @@
     "webpack": "^3.10.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/node": "^7.0.0",
