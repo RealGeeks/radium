@@ -6,6 +6,11 @@
 [![Dependency Status][david_img]][david_site]
 ![gzipped size][size_img]
 
+
+# About this fork
+
+Radium is a dead project. This fork simply updates the peer dependencies for installation on legacy projects using React 18. No further updates or maintenance will be carried out. Do not use this for new projects.
+
 # Radium
 
 ```sh

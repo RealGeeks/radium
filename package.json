@@ -1,5 +1,5 @@
 {
-  "name": "radium",
+  "name": "@jamespierce-rg/radium",
   "version": "0.26.3",
   "description": "A set of tools to manage inline styles on React elements",
   "main": "index.js",
@@ -8,15 +8,15 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/formidablelabs/radium.git"
+    "url": "https://github.com/jamespierce-rg/radium.git"
   },
-  "homepage": "https://github.com/formidablelabs/radium",
-  "bugs": "https://github.com/formidablelabs/radium/issues",
+  "homepage": "https://github.com/jamespierce-rg/radium",
+  "bugs": "https://github.com/jamespierce-rg/radium/issues",
   "directories": {
     "example": "examples"
   },
   "scripts": {
-    "postinstall": "cd lib || npm run build",
+    "postinstall": "cd lib || npm run build || echo 'Radium is no longer maintained. Please consider using an alternative css-in-js package.'",
     "preversion": "npm test && npm run lint",
     "version": "npm run build",
     "postversion": "publishr postversion -V",
