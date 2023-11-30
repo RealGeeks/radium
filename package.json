@@ -1,5 +1,5 @@
 {
-  "name": "@jamespierce-rg/radium",
+  "name": "@realgeeks/radium",
   "version": "0.26.3",
   "description": "A set of tools to manage inline styles on React elements",
   "main": "index.js",
@@ -8,10 +8,10 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamespierce-rg/radium.git"
+    "url": "https://github.com/realgeeks/radium.git"
   },
-  "homepage": "https://github.com/jamespierce-rg/radium",
-  "bugs": "https://github.com/jamespierce-rg/radium/issues",
+  "homepage": "https://github.com/realgeeks/radium",
+  "bugs": "https://github.com/realgeeks/radium/issues",
   "directories": {
     "example": "examples"
   },
